@@ -3,14 +3,16 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Poppins, sans-serif;
+  overflow-x: hidden;
 }
 html {
   font-size: 62.5%;
+  /* overflow-x: hidden; */
 }
 
-body {
+/* body {
   overflow-x: hidden;
-}
+} */
 
 .row {
   margin: 0 auto;
